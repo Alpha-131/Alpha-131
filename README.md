@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  ![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/a57923dc-6dde-4df2-8885-05d9c6ea418b)
+![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/c9acc3dd-a27c-4870-9d5f-bef2868942c5)
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -28,7 +28,7 @@
   </ul>
 </div>
 
-
+<p>
 <!--Intro start-->
 - 🚀 Passionate learner who loves to read and learn new things.
 - 📚 Currently diving deep into the world of artificial intelligence and machine learning.
@@ -37,7 +37,7 @@
 - 🌟 Always seeking opportunities to grow and contribute to the AI and ML community.
 - 📫 Reach out to me at varunpillai20@gmail.com for any inquiries or collaborations.
 <!--Intro end-->
-
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
