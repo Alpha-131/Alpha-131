@@ -1,7 +1,8 @@
 
 <h3 align="center">
-  
-  ![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/a57923dc-6dde-4df2-8885-05d9c6ea418b)
+
+  <img src="https://github.com/Alpha-131/Alpha-131/assets/92028472/a57923dc-6dde-4df2-8885-05d9c6ea418b" alt="github_background" height="200" width="400">
+
 
   
   Welcome I'm Varun Pllai !
