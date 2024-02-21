@@ -5,18 +5,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Varun</h1></summary><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student%3B+Gamer%3B+Programmer" />
+    <summary><h1 style="display: inline-block">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Varun</h1></summary>
   </ul>
 </div>
 
 <p align='center'>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student%3B+Gamer%3B+Programmer" />
-  </a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student%3B+Gamer%3B+Programmer" />
+    </a>
+  </p>
+</div>
 
 
 <!--h2 without bottom border-->
