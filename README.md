@@ -12,9 +12,9 @@
 <p align='center'>
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <p>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">I am a <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student;Gamer;Programmer" /></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student;Gamer;Programmer" /></a>
   </p>
 </div>
 
