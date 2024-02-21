@@ -9,6 +9,13 @@
   </ul>
 </div>
 
+<p align='center'>
+</p>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student;Gamer;Programmer" /></a>
+</p>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -18,16 +25,12 @@
 
 
 <!--Intro start-->
-- 🔭 Currently interning in MLOps, I have a passion for gaming and anime.
-  
-- 🌱 Currently expanding my knowledge in Docker and Kubernetes, aiming to master containerization and orchestration.
-
-- ☁️ With a keen interest in ML Engineering, I am actively learning AWS to enhance my skills in cloud deployment and management.
-
-- 🎓 My aspiration is to become a Machine Learning Research Engineer and contribute to groundbreaking advancements in AI.
-
-- 📫 You can reach me at varunpillai20@gmail.com for any inquiries or collaborations.
-
+- 🚀 Passionate learner who loves to read and learn new things.
+- 📚 Currently diving deep into the world of artificial intelligence and machine learning.
+- 🎮 Enthusiastic gamer and anime enthusiast.
+- 💻 MLOps intern, exploring the intersection of machine learning and operations.
+- 🌟 Always seeking opportunities to grow and contribute to the AI and ML community.
+- 📫 Reach out to me at varunpillai20@gmail.com for any inquiries or collaborations.
 <!--Intro end-->
 
 
