@@ -2,16 +2,6 @@
 
   ![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/a57923dc-6dde-4df2-8885-05d9c6ea418b)
 
-
-  Welcome I'm Varun Pllai !
-  
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
