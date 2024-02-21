@@ -1,6 +1,17 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">
+  
+  ![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/a57923dc-6dde-4df2-8885-05d9c6ea418b)
+
+  
+  Welcome I'm Varun Pllai !
+  
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -12,13 +23,6 @@
 <p align='center'>
 </p>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Student%3B+Gamer%3B+Programmer" />
-    </a>
-  </p>
-</div>
 
 
 <!--h2 without bottom border-->
