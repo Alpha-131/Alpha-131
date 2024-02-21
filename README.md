@@ -27,7 +27,7 @@
   </ul>
 </div>
 
-<p>
+<ul>
 <!--Intro start-->
 - 🚀 Passionate learner who loves to read and learn new things.
 - 📚 Currently diving deep into the world of artificial intelligence and machine learning.
@@ -36,7 +36,7 @@
 - 🌟 Always seeking opportunities to grow and contribute to the AI and ML community.
 - 📫 Reach out to me at varunpillai20@gmail.com for any inquiries or collaborations.
 <!--Intro end-->
-</p>
+</ul>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
