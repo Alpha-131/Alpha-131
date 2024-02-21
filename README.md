@@ -1,6 +1,5 @@
-
 <h3 align="center">
-![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/c9acc3dd-a27c-4870-9d5f-bef2868942c5)
+  ![github_background](https://github.com/Alpha-131/Alpha-131/assets/92028472/c9acc3dd-a27c-4870-9d5f-bef2868942c5)
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
