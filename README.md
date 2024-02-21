@@ -12,13 +12,6 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-
-<div style="background-color: #f0f0f0; padding: 20px;">
-    <!-- Your profile content goes here -->
-    <h1>Hello, I'm Varun!</h1>
-    <p>Welcome to my GitHub profile.</p>
-</div>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
