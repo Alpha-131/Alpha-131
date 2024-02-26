@@ -3,15 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Varun's README</title>
-  <style>
-    body {
-      font-size: 14px;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      font-size: inherit;
-    }
-  </style>
 </head>
 <body>
   <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Varun</h3>
