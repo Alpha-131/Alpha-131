@@ -17,7 +17,7 @@
   <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Varun</h3>
   
   <div align="center">
-    <summary><h2 style="display: inline-block">白ひげ海賊団隊長</h2></summary>
+    <h2 style="display: inline-block">白ひげ海賊団隊長</h2>
   </div>
 
   <ul style="font-size: 0.8em;">
@@ -30,7 +30,7 @@
   </ul>
 
   <div align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
   </div>
 
   <p align="center">
@@ -40,7 +40,7 @@
   </p>
 
   <div align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <h2 style="display: inline-block">Connect With Me🤝</h2>
   </div>
 
   <p align="center">
