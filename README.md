@@ -11,15 +11,6 @@
     <h2 style="display: inline-block">白ひげ海賊団隊長</h2>
   </div>
 
-  <ul style="font-size: 0.8em;">
-    <li>🚀 Passionate learner who loves to read and learn new things.</li>
-    <li>📚 Currently diving deep into the world of artificial intelligence and machine learning.</li>
-    <li>🎮 Enthusiastic gamer and anime fan</li>
-    <li>💻 MLOps intern, exploring the intersection of machine learning and operations.</li>
-    <li>🌟 Always seeking opportunities to grow and contribute to the AI and ML community.</li>
-    <li>📫 Reach out to me at varunpillai20@gmail.com for any inquiries or collaborations.</li>
-  </ul>
-
   <div align="center">
     <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
   </div>
